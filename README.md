@@ -18,7 +18,7 @@ Welcome to my **Social Media Trend Dashboard**, a simple yet effective Power BI 
 ## 🖥 Sample Dashboard Preview
 
 ### 📷 Dashboard Screenshot 1
-![Dashboard Preview 1](https://raw.githubusercontent.com/rahmankhan2241/Power BI Sales Dashobard/main/Social Media Analyzer
+![Dashboard Preview 1](https://raw.githubusercontent.com/rahmankhan2241/Power-BI-Sales-Dashobard/main/Social-Media-Analyzer.png
 
 ### 📷 Dashboard Screenshot 2
 ![Dashboard Preview 2](https://raw.githubusercontent.com/your-username/your-repo/main/images/dashboard-preview2.png)
